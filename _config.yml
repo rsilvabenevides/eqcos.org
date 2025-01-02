@@ -1,0 +1,98 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: QuantumGroup@UGent
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Website for the UGent Quantum Group of Jutho Haegeman and Frank Verstraete
+baseurl: ''
+url: ''
+future: true # produce pages for future talks
+timezone: Europe/Brussels
+
+thesis_topis_year: 2024
+
+include:
+  - .htaccess
+  - _pages
+
+collections:
+  thesistopics:
+    output: true
+  seminars:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "thesistopics" # a collection in your site, in plural form
+    values:
+      layout: "thesistopic"
+      permalink: /thesistopics/:path:output_ext
+  - scope:
+      path: ""
+      type: 'seminars'
+    values:
+      layout: 'seminarlay'
+      permalink: /seminars/:path:output_ext
+      abstract: true
+      type: lunchtalk
+
+sass:
+  sass_dir: _sass
+
+plugins:
+  - jekyll-scholar
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  math_engine: mathjax
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  parse_block_html: true # default for kramdown is false. This will enable using Markdown links
+
+scholar:
+  style: _layouts/quantumGent.csl
+  locale: en
+
+  source: /_data/
+  bibliography: usingPkg.bib
+  bibliography_template: bib
+
+  # Note: if you have latex math in your bibtex, the latex filter
+  # preprocessing may conflict with MathJAX if the latter is enabled.
+  # See https://github.com/alshedivat/al-folio/issues/357.
+  bibtex_filters: [smallcaps, superscript]
+
+  replace_strings: true
+  join_strings: true
+
+  details_dir: bibliography
+  details_layout: bibtex.html
+  details_link: Details
+
+  sort_by: year, eprint, title, author
+  order: descending, ascending, ascending, ascending
+
+  group_by: year
+  group_order: descending
+
+  query: "@*"
