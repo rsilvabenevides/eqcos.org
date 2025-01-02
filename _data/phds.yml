@@ -1,0 +1,138 @@
+# TEMPLATE: spaces are important, order of fields is not, alphabetic order of entries
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  scholar:
+#  github:
+#  twitter:
+
+- name: Lander Burgelman
+  sname: Burgelman
+  photo: FOTOlanderburgelman.jpg
+  info: FWO PhD student since 2020
+  email: lander.burgelman@ugent.be
+  scholar: Jxh79GkAAAAJ
+  github: leburgel
+
+- name: Sander De Meyer
+  sname: De Meyer
+  info: PhD student since 2024
+  email: sander.demeyer@ugent.be
+  github: sanderdemeyer
+
+- name: Boris De Vos
+  sname: De Vos
+  photo: FOTOBorisDeVos.jpg
+  info: PhD student since 2023
+  email: Boris.DeVos@UGent.be
+
+- name: Lukas Devos
+  sname: Devos
+  photo: FOTOlukasdevos.jpg
+  info: PhD student since 2020
+  email: lukas.devos@ugent.be
+
+- name: Gleb Fedorovich
+  sname: Fedorovich
+  # photo: 
+  orcid: 0000-0002-7664-0384
+  info: PhD student since 2023
+  email: Gleb.Fedorovich@UGent.be
+
+- name: Daan Maertens
+  sname: Maertens
+  photo: FOTOdaanmaertens.jpeg
+  info: PhD student since 2020
+  email: daan.maertens@ugent.be
+
+- name: Akshay Shankar
+  sname: Shankar
+  photo: IMGAkshay.jpg
+  site: https://20akshay00.github.io/
+  info: PhD student since 2023
+  email: sakshays.2000@gmail.com
+  github: 20akshay00
+  twitter: 20akshay00
+
+- name: Clara Tanghe
+  sname: Tanghe
+  photo: FOTOclaratanghe.jpg
+  info: FWO PhD student since 2021
+  email: clara.tanghe@ugent.be
+
+- name: Bram Vancraeynest-De Cuiper
+  sname: Vancraeynest-De Cuiper
+  photo: FOTObramvancraeynest.jpg
+  info: FWO PhD student since 2021
+  email: bram.vancraeynestdecuiper@ugent.be
+  scholar: EucAISwAAAAJ
+
+- name: Victor Vanthilt
+  sname: Vanthilt
+  # photo:
+  info: PhD student since 2024
+  email: victor.vanthilt@ugent.be
+  github: VictorVanthilt
+
+- name: Kevin Vervoort
+  sname: Vervoort
+  info: PhD student since 2022
+  email: kevin.vervoort@ugent.be
+
+- name: Adwait Naravane
+  sname: Naravane
+  photo: FOTOAdwait.png
+  info: PhD student since 2024
+  email: adwaitnaravane@gmail.com
+  github: Adwait-Naravane
+
+- name: Anton Martin
+  sname: Martin
+  photo: FOTOAntonMartin.jpg
+  info: PhD student since 2024
+  email: anton.martin@ugent.be
+  github: AntonMartin12
+
+- name: Arthur Bril
+  sname: Bril
+  photo: FotoArthurBril.jpg
+  info: PhD student since 2024
+  email: arthur.bril@ugent.be
+  github: ArthurBril123
+
+
+#- name: Tom Vieijra
+#  photo: bb.jpg
+#  info: FWO PhD student since 2018
+#  email: tom.vieijra@UGent.be
+
+#- name: Bastiaan Aelbrecht
+#  photo: FOTObastiaanaelbrecht.jpg
+#  info: PhD student since 2020
+#  email: bastiaan.aelbrecht@ugent.be
+#  github: baaelbre
+#  twitter: BastiaanAB
+
+#- name: Marco Deweirdt
+#  photo: FOTOmarcodeweirdt.jpg
+#  info: PhD student since 2020
+#  email: marco.deweirdt@ugent.be
+
+#- name: Benoît Tuybens
+#  photo: FOTOBenoitTuybensNew.jpg
+#  info: FWO PhD student since 2017
+#  email: benoit.tuybens@ugent.be
+#  scholar: anCVC0UAAAAJ
+#  twitter: Benoit_Tuybens
+
+#- name: Bram Vanhecke
+#  photo: FOTObram.jpg
+#  info: PhD student since 2016
+#  email: bavhecke.vanhecke@ugent.be
+#  scholar: 9PVLvrcAAAAJ
+
+#- name: Alexis Schotte
+#  photo: bb.jpg
+#  info: PhD student since 2016
+#  email: alexis.schotte@ugent.be

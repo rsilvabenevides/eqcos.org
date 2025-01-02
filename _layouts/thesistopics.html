@@ -1,0 +1,49 @@
+---
+layout: default
+---
+
+<div class="well">
+  <div class="panel-heading">
+    <h4 class="panel-title">
+      <span class="glyphicon glyphicon-file"></span> 
+      Masters thesis topics
+    </h4>
+  </div>
+
+  {% assign topics = site.thesistopics | where: "year", site.thesis_topis_year | group_by: "topic" %}
+  {% assign team = site.data.staff | concat: site.data.postdocs | concat: site.data.phds %}
+
+  {% for topic in topics %}
+  {% assign topicid = topic.name | strip_html | remove: ' ' | remove: ':' %}
+
+  <h4>{{ topic.name }}</h4>
+  <div class="panel-group" id="{{ topicid }}" role="tablist" aria-multiselectable="true">
+    {% for item in topic.items %}
+    {% assign titleid = item.title | strip_html | remove: ' ' | remove: ':' | remove: ';' | remove: '.' | remove: ',' | remove: '!' | remove: '&' | remove: '+' | remove: '-' | remove: '*' %}
+    <div class="panel panel-default">
+      <div class="panel-heading" role="tab" id="heading_{{ titleid }}">
+        <a class="collapsed" role="button" data-toggle="collapse" data-parent="#{{ topicod }}" href="#{{ titleid }}" aria-expanded="false" aria-controls="{{titleid}}">
+          <p>{{ item.title }}</p>
+          <p class="indenttext">Promoter(s): {{ item.promoter }} &#8212; Supervisor(s): {{ item.supervisor }}</p>
+        </a>
+      </div>
+      <div id="{{ titleid }}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading_{{ titleid }}">
+        <div class="panel-body">
+          {{ item.content }}
+          <div style="text-align:center">
+            {%- assign contactperson = team | where: "name" , item.contact -%}
+            {% assign contactaddress = contactperson[0].email %}
+            {% if  contactaddress != '' and contactaddress != null %}
+            Contact: {{ item.contact }} (<a href="mailto:{{ contactaddress }}">{{ contactaddress }}</a>)
+            {% else %}
+            Contact: {{ item.contact }}
+            {% endif %}
+          </div>
+        </div>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  {%endfor%}
+  <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+</div>

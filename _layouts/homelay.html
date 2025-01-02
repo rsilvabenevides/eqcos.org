@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include navbar.html skip_title=true %}
+
+    <div class="container-fluid">
+      <div class="row">
+          <div id="homeid" class="col-sm-12">
+              {{ content }}
+          </div>
+          <div id="newsid" class="col-sm-6" >
+            {% include news.html %}
+          </div>
+          <div id="seminars" class="col-sm-6" >
+            {% include seminars.html %}
+          </div>
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>
