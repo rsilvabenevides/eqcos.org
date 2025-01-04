@@ -14,7 +14,6 @@ timezone: America/Sao_Paulo
 baseurl: ''
 url: "https://eqcos.org"
 future: true # produce pages for future talks
-timezone: Europe/Brussels
 
 thesis_topis_year: 2024
 
