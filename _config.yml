@@ -6,8 +6,8 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: EQCoS Group - TEST - 
-email: your-email@eqcos.org
+title: EQCoS - Engineered Quantum Communication Systems 
+email: rodrigb@if.usp.br
 description: >
   Website for the EQCoS Group at the Institute of Physics, University of São Paulo.
 timezone: America/Sao_Paulo
@@ -15,7 +15,7 @@ baseurl: ''
 url: "https://eqcos.org"
 future: true # produce pages for future talks
 
-thesis_topis_year: 2024
+thesis_topis_year: 2025
 
 include:
   - .htaccess

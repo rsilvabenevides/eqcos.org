@@ -1,7 +1,7 @@
 ---
-title: "QuantumGroup@UGent - News"
+title: "EQCOS"
 layout: textlay
-excerpt: "Quantum Seminars at Ghent University."
+excerpt: "EQCOS"
 sitemap: false
 permalink: /allseminars.html
 ---

@@ -1,7 +1,7 @@
 ---
-title: "QuantumGroup@UGent - Events and Conferences"
+title: "EQCOS"
 layout: events
-excerpt: "QuantumGroup@UGent -- Events amd Conferences."
+excerpt: "EQCOS"
 sitemap: false
 permalink: /events.html
 ---

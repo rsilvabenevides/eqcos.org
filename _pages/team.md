@@ -1,14 +1,14 @@
 ---
-title: "QuantumGroup@UGent - Members"
+title: "EQCOS"
 layout: gridlay
-excerpt: "QuantumGroup@UGent --- Team members."
+excerpt: "EQCOS"
 sitemap: false
 permalink: /team/
 ---
 
 # Group Members
 
-## Senior staff
+## Principal Investigator
 
 {% assign number_printed = 0 %}
 {% assign staff = site.data.staff | sort: "sname","last" %}
@@ -77,7 +77,7 @@ permalink: /team/
 
 <a href="mailto:inge.vandervennet@ugent.be">Inge Van der Vennet</a> is helping us (and other groups) with administration.
 
-## More pictures of the team
+<!-- ## More pictures of the team
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
     <!-- Menu -->
@@ -117,4 +117,4 @@ permalink: /team/
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-</div>
+</div> -->

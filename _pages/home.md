@@ -1,14 +1,14 @@
 ---
-title: "QuantumGroup@UGent"
+title: "EQCOS"
 layout: homelay
-excerpt: "Quantum Group at Ghent University."
+excerpt: "EQCOS"
 sitemap: false
 permalink: /
 ---
 <div class="page-header">
 <h1>
-Quantum Group @ UGent<br>
-<small>Exploring Tensor Networks & Quantum Entanglement</small>
+EQCOS<br>
+<small>EQCOS</small>
 </h1>
 </div>
 
@@ -51,5 +51,5 @@ Quantum Group @ UGent<br>
   </a>
 </div>
 <div align="justify">
-<p class="lead"><a href="/research/">Research</a> in the QuantumGroup@Ugent is focused on unravelling entanglement patterns in interacting quantum many-body systems.  We are developing the theory of quantum tensor networks, devise novel computational methods for optimizing them, and apply those to problems in condensed matter physics, quantum field theory, atomic physics and quantum computing. Very recently we have added an experimental research line on ultra-cold atoms, with our <a href="/bec/">first Belgian lab hosting a Bose-Einstein Condensate</a>.</p>
+<p class="lead"><a href="/research/">Research</a> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi et ultrices turpis, ut volutpat ipsum. Integer commodo tellus id est tempor ornare. Donec felis tortor, malesuada in vestibulum at, dapibus et magna. Donec et vestibulum libero. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent et dapibus nibh, eget laoreet libero. Integer eu odio ac ante ornare porttitor quis in felis. Praesent placerat quam vel tortor bibendum vehicula. Duis id ante pretium, lacinia elit ac, volutpat arcu.  <a href="/bec/">first Belgian lab hosting a Bose-Einstein Condensate</a>.</p>
 </div>
