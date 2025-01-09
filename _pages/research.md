@@ -3,7 +3,7 @@ title: "EQCOS Lab - Research"
 layout: textlay
 excerpt: "EQCOS Lab -- Research"
 sitemap: false
-permalink: /publications/
+permalink: /research/
 ---
 
 # Research
