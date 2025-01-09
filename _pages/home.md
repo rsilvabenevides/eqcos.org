@@ -1,12 +1,15 @@
 ---
-title: "Engineered Quantum Control Systems Lab - Home"
+title: "EQCOS Lab - Home"
 layout: homelay
 excerpt: "Engineered Quantum Control Systems Lab &rarr; LMU."
 sitemap: false
 permalink: /
 ---
 
+
 <p style="text-align: justify;"> **News: Our group is starting at the University of São Paulo!** We are starting to build our lab and there will be plenty of opportunities for Ph.D., master's, and bachelor students. Send an <a href="mailto:rsilvabenevides@gmail.com">email</a> to Rodrigo for more info. </p>
+
+<link rel="icon" href="/images/favicon.ico" type="image/png">
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
