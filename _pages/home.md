@@ -59,7 +59,7 @@ permalink: /
 
 <img src="images/progressprideflag.png" alt="Image description" width="100" style="float: left; margin-right: 15px;"/> 
 
-<p style="text-align: justify;">We encourage students from different backgrounds to join the team, including different genders, sexual identities, and ethnicities. The more diverse our lives, the richer are our thoughts. Science just profits from diversity!</p>
+<p style="text-align: justify;">We encourage students from different backgrounds to join the team, including different genders, sexual identities, and ethnicities. The more diverse our environment, the richer our thoughts. Science just profits from diversity!</p>
 
 <p style="text-align: justify;">**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**</p>
 
