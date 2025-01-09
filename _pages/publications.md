@@ -59,7 +59,7 @@ At the moment, all the publication are from Rodrigo's works in previous labs.
 
 <em>Milan P Allan</em><br /> Methods of manufacturing superconductor and phononic elements <br /> <a href="https://patents.google.com/patent/US10439125B2/en?inventor=Milan+ALLAN&oq=inventor:(Milan+ALLAN)">US10439125B2 (2016)</a> -->
 
-## Full List of publications
+## Full list of publications in peer-reviewed journals
 
 {% for publi in site.data.publist %}
 

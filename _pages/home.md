@@ -1,12 +1,12 @@
 ---
-title: "Engineered Quantum Computing Systems Lab - Home"
+title: "Engineered Quantum Control Systems Lab - Home"
 layout: homelay
-excerpt: "Engineered Quantum Computing Systems Lab &rarr; LMU."
+excerpt: "Engineered Quantum Control Systems Lab &rarr; LMU."
 sitemap: false
 permalink: /
 ---
 
-**News: Our group is starting at the Univesity of São Paulo!** We will start to build our lab and there will be plenty of opportunities for Ph.D., master and bachelor students. Send an <a href="mailto:rsilvabenevides@gmail.com">email</a> to Rodrigo for more info. 
+<p style="text-align: justify;"> **News: Our group is starting at the Univesity of São Paulo!** We will start to build our lab and there will be plenty of opportunities for Ph.D., master and bachelor students. Send an <a href="mailto:rsilvabenevides@gmail.com">email</a> to Rodrigo for more info. </p>
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -24,7 +24,7 @@ permalink: /
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/home_carousel/Logo_v0-02.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/home_carousel/Logo_v0-01.png" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/home_carousel/Layout_lab-02.png" alt="Slide 2" />
@@ -52,16 +52,16 @@ permalink: /
   </a>
 </div>
 
+<p style="text-align: justify;"> We are a plural and diverse group at the [Institute of Physics](http://portal.if.usp.br/ifusp/) of the University of São Paulo, in Brazil. We use quantum devices to contribute to the diverse field of quantum computing. Our main goal at the moment is to develop a microwave-optical quantum transducer to interconnect distinct quantum computing units. For this goal, we work with superconducting qubits, phononic structures and optomechanical devices.</p>
 
-We are a plural and diverse group at the [Institute of Physics](http://www.physics.leidenuniv.nl) of the University of São Paulo, in Brazil.
 
-We use quantum devices to contribute to the diverse field of quantum computing. Our main goal at the moment is to develop a microwave-optical quantum transducer to interconnect distinct quantum computing units. For this goal, we work with superconducting qubits, phononic structures and optomechanical devices. 
+<p style="text-align: justify;">We are continuously looking for enthusiastic students eager to learn more about the broad field of quantum technologies in microdevices. Our lab deals with all the stages of development of a quantum devices: design, simulation, fabrication, packaging and characterization.</p>
 
-We are continuously looking for enthusiastic students eager to learn more about the broad field of quantum technologies in microdevices. Our lab deals with all the stages of development of a quantum devices: design, simulation, fabrication, packaging and characterization.
+<img src="images/progressprideflag.png" alt="Image description" width="100" style="float: left; margin-right: 15px;"/> 
 
-We encourage students from different backgrounds to join the team, including different genders, sexual identities and ethnicities. The more diverse our lives, the richer are our thoughts. Science just profits from diversity!
+<p style="text-align: justify;">We encourage students from different backgrounds to join the team, including different genders, sexual identities and ethnicities. The more diverse our lives, the richer are our thoughts. Science just profits from diversity!</p>
 
-**We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+<p style="text-align: justify;">**We are  looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**</p>
 
 
 
