@@ -1,0 +1,36 @@
+- name: Rodrigo Benevides
+  photo: Foto_Benevides.jpg
+  info: Principal investigator
+  email: rsilvabenevides@gmail.com
+  number_educ: 3
+  education1: Engineering Physics degree from the <a href="https://www.ufscar.br/">Federal university of São Carlos</a>.
+  education2: PhD at the University of Campinas, working with prof. Thiago Alegre.
+  education3: <a href="https://grantsoffice.ethz.ch/funding-opportunities/internal/eth-fellowships/list-of-fellows.html">ETH Zürich Postodctoral fellow</a>, working at the group of Prof. Yiwen Chu. 
+  
+- name: "This could be you"
+  photo: student_1.png
+  info: See <a href="http://www.eqcos.org/vacancies">openings</a> for more info
+  # email: 
+  # number_educ: 2
+  # education1: PhD with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
+  # education2: BSc Jilin University
+
+# - name: Amber Mozes
+#   photo: Amber.png
+#   info: PhD Student, started September 2021
+#   email: b
+#   number_educ: 2
+#   education1: Master Applied Physics, TU Delft
+#   education2: Casimir/Nanofront PhD fellowship
+#   education3:
+#   education4:
+
+
+# - name: "This could be you !"
+#   photo: rock.jpg
+#   info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+#   email: milan.allan@gmail.com
+#   number_educ: 0
+#   education1:
+#   education2:
+#   education3:

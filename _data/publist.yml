@@ -1,0 +1,98 @@
+- title: "Quasiparticle Dynamics in a Superconducting Qubit Irradiated by a Localized Infrared Source"
+  image: Quasiparticles.png
+  description: What if we use light to simulate cosmic rays hitting our qubits?
+  authors: R. Benevides, M. Drimmer, G. Bisson, F. Adinolfi, U. v. Lüpke, H. M. Doeleman, G. Catelani and Y. Chu.
+  link:
+    url: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.133.060602#supplemental
+    display: Phys. Rev. Lett. 133, 060602 – Published 7 August, 2024
+  highlight: 1
+
+- title: "Brillouin optomechanics in the quantum ground state"
+  image: brillouin.png
+  description: This is the heaviest mechanical oscillator brought to the ground state.
+  authors: H. M. Doeleman, T. Schatteburg, R. Benevides, S. Vollenweider, D. Macri, and Y. Chu.
+  link:
+    url: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.5.043140
+    display: Phys. Rev. Research 5, 043140 – Published 9 November, 2023
+  highlight: 1
+
+- title: "Optomechanical quantum teleportation"
+  image: Teleportation.png
+  description: We have for the first time teleportated a quantum state from light to a mechanical massive oscillator.
+  authors: N. Fiaschi, B. Hensen, A. Wallucks, R. Benevides, J. Li, T. P. M. Alegre and S. Gröblacher.
+  link:
+    url: https://www.nature.com/articles/s41566-021-00866-z
+    display: Nature Photonics, 15 (2021)
+  highlight: 1
+  
+- title: "Ultrahigh-Q optomechanical crystal cavities fabricated in a CMOS foundry"
+  image: PhC.png
+  description: We demonstrate how to fabricate optomechanical crystal in large scale.
+  authors: R. Benevides, F. G. S. Santos, G. O. Luiz, G. S. Wiederhecker and T. P. M. Alegre 
+  link:
+    url: https://www.nature.com/articles/s41598-017-02515-4
+    display: Scientific Reports volume 7, Article number 2491 (2017)
+  highlight: 1
+
+- title: Hybrid confinement of optical and mechanical modes in a bullseye optomechanical resonator 
+  authors: Felipe G. S. Santos, Yovanny A. V. Espinel, Gustavo O. Luiz, Rodrigo S. Benevides, Gustavo S. Wiederhecker, and Thiago P. Mayer Alegre 
+  link:
+    url: https://opg.optica.org/oe/fulltext.cfm?uri=oe-25-2-508
+    display: Optics Express Vol. 25, Issue 2, pp. 508-529 (2017)
+  highlight: 0
+
+- title: Proposal for optomechanical quantum teleportation
+  authors: Jie Li, Andreas Wallucks, Rodrigo Benevides, Niccolo Fiaschi, Bas Hensen, Thiago P. Mayer Alegre, and Simon Gröblacher1
+  link:
+    url: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.102.032402
+    display: Phys. Rev. A 102, 032402 – Published 3 September, 2020
+  highlight: 0
+
+- title: Accurate modeling and characterization of photothermal forces in optomechanics
+  authors: André G. Primo, Cauê M. Kersul, Rodrigo Benevides, Natália C. Carvalho, Michael Ménard, Newton C. Frateschi, Pierre-Louis de Assis, Gustavo S. Wiederhecker and Thiago P. Mayer Alegre 
+  link:
+    url: https://pubs.aip.org/aip/app/article/6/8/086101/123701
+    display: APL Photonics 6, 086101 (2021)
+  highlight: 0
+
+- title: Dissipative optomechanics in high-frequency nanomechanical resonators
+  authors: André G. Primo, Pedro V. Pinho, Rodrigo Benevides, Simon Gröblacher, Gustavo S. Wiederhecker & Thiago P. Mayer Alegre 
+  link:
+    url: https://www.nature.com/articles/s41467-023-41127-7
+    display: Nature Communications volume 14, Article number 5793 (2023)
+  highlight: 0
+
+- title: Ar/Cl2 etching of GaAs optomechanical microdisks fabricated with positive electroresist 
+  authors: Rodrigo Benevides, Michaël Ménard, Gustavo S. Wiederhecker, and Thiago P. Mayer Alegre 
+  link:
+    url: https://opg.optica.org/ome/fulltext.cfm?uri=ome-10-1-57&id=423826
+    display: Optical Materials Express Vol. 10, Issue 1, pp. 57-67 (2020)
+  highlight: 0
+
+- title: Efficient anchor loss suppression in coupled near-field optomechanical resonators
+  authors: Gustavo O. Luiz, Rodrigo S. Benevides, Felipe G. S. Santos, Yovanny A. V. Espinel, Thiago P. Mayer Alegre, and Gustavo S. Wiederhecker 
+  link:
+    url: https://opg.optica.org/oe/fulltext.cfm?uri=oe-25-25-31347&id=379169
+    display: Optics Express Vol. 25, Issue 25, pp. 31347-31361 (2017)
+  highlight: 0
+
+- title: Silicon anisotropy in a bi-dimensional optomechanical cavity
+  authors: Cauê M. Kersul, Rodrigo Benevides, Flávio Moraes, Gabriel H. M. de Aguiar, Andreas Wallucks, Simon Gröblacher, Gustavo S. Wiederhecker and Thiago P. Mayer Alegre
+  link:
+    url: https://pubs.aip.org/aip/app/article/8/5/056112/2892992
+    display: APL Photonics 8, 056112 (2023)
+  highlight: 0
+
+- title: Bright and Vivid Diffractive–Plasmonic Reflective Filters for Color Generation
+  authors: Emerson G. Melo, Ana L. A. Ribeiro, Rodrigo S. Benevides, Antonio A. G. V. Zuben, Marcos V. Puydinger dos Santos, Alexandre A. Silva, Gustavo S. Wiederhecker and Thiago P. M. Alegre
+  link:
+    url: https://pubs.acs.org/doi/full/10.1021/acsanm.9b02508
+    display: ACS Appl. Nano Mater. 2020, 3, 2, 1111–1117
+  highlight: 0
+
+- title: High-frequency GaAs optomechanical bullseye resonator
+  authors: N. C. Carvalho, R. Benevides, M. Ménard, G. S. Wiederhecker, N. C. Frateschi and T. P. M. Alegre
+  link:
+    url: https://doi.org/10.1063/5.0024511
+    display: APL Photonics 6, 016104 (2021)
+  highlight: 0
