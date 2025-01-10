@@ -55,16 +55,14 @@ permalink: /
   </a>
 </div>
 
-<p style="text-align: justify;"> We are a plural and diverse group at the [Institute of Physics](http://portal.if.usp.br/ifusp/) of the University of São Paulo, in Brazil. We use quantum devices to contribute to the diverse field of quantum computing. Our main goal at the moment is to develop a microwave-optical quantum transducer to interconnect distinct quantum computing units. For this goal, we work with superconducting qubits, phononic structures, and optomechanical devices.</p>
+<p style="text-align: justify;"> We are a plural group at the [Institute of Physics](http://portal.if.usp.br/ifusp/) of the University of São Paulo, in Brazil. We use quantum devices to contribute to the diverse field of quantum computing. Our main goal at the moment is to develop a microwave-optical quantum transducer to interconnect distinct quantum computing units. To get there, we work with superconducting qubits, phononic structures, and optomechanical devices.</p>
 
 
-<p style="text-align: justify;">We are continuously looking for enthusiastic students eager to learn more about the broad field of quantum technologies in microdevices. Our lab deals with all the stages of development of quantum devices: design, simulation, fabrication, packaging, and characterization.</p>
+<p style="text-align: justify;"> EQCOS is continuously looking for enthusiastic students eager to learn more about the broad field of quantum technologies in microdevices. Our lab deals with all the stages of development of quantum devices: design, simulation, fabrication, packaging, and characterization.</p>
 
-<img src="images/progressprideflag.png" alt="Image description" width="100" style="float: left; margin-right: 15px;"/> 
+<!-- <img src="images/progressprideflag.png" alt="Image description" width="100" style="float: left; margin-right: 15px;"/>  -->
 
-<p style="text-align: justify;">We encourage students from different backgrounds to join the team, including different genders, sexual identities, and ethnicities. The more diverse our environment, the richer our thoughts. Science just profits from diversity!</p>
-
-<p style="text-align: justify;">**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**</p>
+<p style="text-align: justify;">**We are looking for passionate new PhD, master's, and bachelor students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**</p>
 
 
 

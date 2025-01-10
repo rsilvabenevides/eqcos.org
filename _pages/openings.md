@@ -6,20 +6,19 @@ sitemap: false
 permalink: /vacancies
 ---
 
-# Open positions
+# Open Positions
 
-**We are currently open for master and Ph.D. applications related to our FAPESP grant.**
+**We are currently accepting applications for Master’s and Ph.D. positions related to our FAPESP grant.**
 
-<p style="text-align: justify;"> In our group, you will have the opportunity to develop several skills. We work with cryogenic tools to explore the quantum features of distinct systems, microfabricated by ourselves. We want student willing to participate in a collaborative and inclusive environment, where we can have a lot of fun while doing great science :) </p>  
+<p style="text-align: justify;"> In our group, you will have the opportunity to develop several skills. We work with cryogenic tools to explore the quantum features of distinct systems, which we microfabricated ourselves. We are looking for students eager to participate in a collaborative and inclusive environment, where we can have a lot of fun while doing great science! </p>  
 
-## Ph.D positions
+<p style="text-align: justify;">We encourage students from diverse backgrounds to join the team, including individuals of different gender identities, sexual orientations, and ethnicities. The more diverse our environment, the richer our thoughts. Science thrives on diversity!</p>
 
-### Electromechanical devices for microwave-optical transduction
+## Ph.D. Positions
+
+### Electromechanical Devices for Microwave-Optical Transduction
 #### Funding: FAPESP
-<p style="text-align: justify;">The student involved in this scholarship proposal will work toward building an electromechanical
-device that can be operated at the quantum regime. They will also help to build the laboratory
-infrastructure, with a focus on the cryogenic and microwave setups. The final goal is to perform electromechanical
-experiments and microwave-optical transduction in the quantum regime.</p>
+<p style="text-align: justify;">The student participating in this project will work on developing an electromechanical device designed to operate in the quantum regime. They will also contribute to building the laboratory infrastructure, with a focus on cryogenic and microwave setups. The ultimate goal is to perform electromechanical experiments and achieve microwave-optical transduction in the quantum regime.</p>
 
 <figure  style="text-align: center; margin: 0 auto;">
   <img src="images/research/Electromec.png" alt="Image description" width="400"/>
@@ -29,23 +28,20 @@ experiments and microwave-optical transduction in the quantum regime.</p>
 
 <p style="text-align: justify;margin-top: 25px;">In this project, the student will learn and develop a diverse set of skills, including:</p>
 
-* Understand the quantization of electrical circuits and the fundamentals of circuit quantum electrodynamics (cQED). 
-* Study the electromechanical Hamiltonian, with numerical simulations of our system.
-* Design and numerically simulate the superconducting devices to be fabricated.
-* Develop the microfabrication of superconducting circuits using Josephson junctions.
-* Help in the construction of a cryogenic environment compatible with cQED experiments. 
-* Coherent microwave photon-phonon conversion in electromechanical devices.
+* Learning the quantization of electrical circuits and the fundamentals of circuit quantum electrodynamics (cQED). 
+* Analyzing the electromechanical Hamiltonian, with numerical simulations of our system.
+* Designing and numerically simulating the superconducting devices to be fabricated.
+* Developing microfabrication techniques for superconducting circuits using Josephson junctions.
+* Assisting in the construction of a cryogenic environment compatible with cQED experiments. 
+* Performing experiments on coherent microwave photon-phonon conversion in electromechanical devices.
 
-<u>Desired previous experience:</u> While not mandatory, the sucessful candidate is expected to have some previous experimental experience, with a master or bachelor thesis in experimental physics. Basic knowledge of microfabrication processes and Python coding    is also a big plus. 
+<u>Desired previous experience:</u> While not mandatory, the ideal candidate is expected to have some prior experimental experience, such as a Master’s or Bachelor’s thesis in experimental physics. Basic knowledge of microfabrication processes and Python programming is also a significant advantage. 
 
-## Master positions
+## Master Positions
 
-### Optomechanics with surface acoustic waves
+### Optomechanics with Surface Acoustic Waves
 #### Funding: FAPESP
-<p style="text-align: justify;">The student involved in this proposal will work toward building an optomechanical device that
-can be operated at the quantum regime. They will also help to build the laboratory infrastructure,
-with a focus on the optical setups. The final goal is to perform optomechanical experiments that form
-the basis of the transduction process.</p>
+<p style="text-align: justify;">The student will contribute to developing an optomechanical device designed to operate in the quantum regime. They will also assist in building the laboratory infrastructure, focusing on the optical setups. The primary objective is to conduct optomechanical experiments that serve as the foundation for the transduction process.</p>
 
 <figure  style="text-align: center; margin: 0 auto;">
   <img src="images/research/Optomec.png" alt="Image description" width="500"/>
@@ -55,26 +51,26 @@ the basis of the transduction process.</p>
 
 <p style="text-align: justify;margin-top: 25px;">In this project, the student will learn and develop a diverse set of skills, including:</p>
 
-* Study optical cavities, learning basic concepts. 
-* Understand the optomechanical Hamiltonian, with numerical simulations of our system.
-* Develop the microfabrication of micromirrors.
-* Fabricate optomechanical devices.
-* Measurement of optomechanical devices at room temperature.
-* Cryogenic measurements of optomechanical devices, with single-phonon level experiments.
-
-
+* Studying optical cavities and learning basic concepts. 
+* Understanding the optomechanical Hamiltonian, supported by numerical simulations of our system.
+* Fabricating micromirrors and optomechanical devices.
+* Measuring optomechanical devices at room temperature.
+* Performing cryogenic measurements of optomechanical devices, including single-phonon level experiments.
 <div style="text-align: justify;">
-<br><br>
-<p style="text-align: justify;">If you are interested in working with us as a master's or PhD student, please send me an [email](mailto:rsilvabenevides@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: Please insert _"Application PhD"_ or _"Application Master"_ in the subject line.</p>
+<br>
 
-### Bachelor projects
-<p style="text-align: justify;">We are always open for new bachelor students. At the moment, we can offer the following projects:</p>
+### How to Apply
 
-* <u>Introduction to circuit quantum electrodynamics</u>: The student will learn how to quantize electrical circuits and the fundamentals of superconducting circuits and qubits. 
-* <u>Simulations of superconducting qubits</u>: The student will help in the numerical simulation of the superconducting devices we will fabricate. This will include finite element method simulations and some Python coding. 
-* <u>Introduction to quantum transduction</u>: The student will learn what are the constrains and think in possible solutions for the difficult problem of transducing quantum states.
+<p style="text-align: justify;">If you are interested in joining us as a Master’s or Ph.D. student, please send us an [email](mailto:rsilvabenevides@gmail.com). Briefly explain why you are interested, and attach a CV that includes your undergraduate grades. There is no need for a separate cover letter or certificates. **Important**: Please include _"Application PhD"_ or _"Application Master"_ in the subject line.</p>
+<br>
+### Bachelor Projects
+<p style="text-align: justify;">We are always open to new Bachelor's students. At the moment, we are offering the following projects:</p>
 
-<p style="text-align: justify;"> And we are always to discuss particular interests of students wanting to join the team. Just drop by to discuss with us!</p>
+* <u>Introduction to Circuit Quantum Electrodynamics</u>: Learn how to quantize electrical circuits and the fundamentals of superconducting circuits and qubits. 
+* <u>Simulations of Superconducting Qubits</u>: Help with the numerical simulations of superconducting devices to be fabricated, including finite element method simulations and Python coding. 
+* <u>Introduction to Quantum Transduction</u>: Understand the constraints and explore potential solutions to the challenging problem of transducing quantum states.
+
+<p style="text-align: justify;"> We are also happy to discuss the specific interests of students who want to join the team. Feel free to reach out and chat with us!</p>
 
 <!-- <figure>
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
