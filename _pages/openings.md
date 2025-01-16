@@ -67,7 +67,8 @@ permalink: /vacancies
 <p style="text-align: justify;">We are always open to new Bachelor's students. At the moment, we are offering the following projects:</p>
 
 * <u>Introduction to Circuit Quantum Electrodynamics</u>: Learn how to quantize electrical circuits and the fundamentals of superconducting circuits and qubits. 
-* <u>Simulations of Superconducting Qubits</u>: Help with the numerical simulations of superconducting devices to be fabricated, including finite element method simulations and Python coding. 
+* <u>Simulations of integrated grating coupler</u>: Develop numerical simulations with finite element method of an integrated photonic grating coupler. 
+<!-- * <u>Simulations of Superconducting Qubits</u>: Help with the numerical simulations of superconducting devices to be fabricated, including finite element method simulations and Python coding.  -->
 * <u>Introduction to Quantum Transduction</u>: Understand the constraints and explore potential solutions to the challenging problem of transducing quantum states.
 
 <p style="text-align: justify;"> We are also happy to discuss the specific interests of students who want to join the team. Feel free to reach out and chat with us!</p>
