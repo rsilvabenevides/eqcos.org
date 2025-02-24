@@ -61,7 +61,7 @@ permalink: /vacancies
 
 ### How to Apply
 
-<p style="text-align: justify;">If you are interested in joining us as a Master’s or Ph.D. student, please send us an [email](mailto:rsilvabenevides@gmail.com). Briefly explain why you are interested, and attach a CV that includes your undergraduate grades. There is no need for a separate cover letter or certificates. **Important**: Please include _"Application PhD"_ or _"Application Master"_ in the subject line.</p>
+<p style="text-align: justify;">If you are interested in joining us as a Master’s or Ph.D. student, please send us an [email](mailto:rodrigob@if.usp.br). Briefly explain why you are interested, and attach a CV that includes your undergraduate grades. There is no need for a separate cover letter or certificates. **Important**: Please include _"Application PhD"_ or _"Application Master"_ in the subject line.</p>
 <br>
 ### Bachelor Projects
 <p style="text-align: justify;">We are always open to new Bachelor's students. At the moment, we are offering the following projects:</p>
