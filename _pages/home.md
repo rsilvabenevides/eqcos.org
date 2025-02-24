@@ -7,7 +7,7 @@ permalink: /
 ---
 
 
-<p style="text-align: justify;"> **News: Our group is starting at the University of São Paulo!** We are starting to build our lab and there will be plenty of opportunities for Ph.D., master's, and bachelor students. Send an <a href="mailto:rsilvabenevides@gmail.com">email</a> to Rodrigo for more info. </p>
+<p style="text-align: justify;"> **News: Our group is starting at the University of São Paulo!** We are starting to build our lab and there will be plenty of opportunities for Ph.D., master's, and bachelor students. Send an <a href="mailto:rodrigob@if.usp.br">email</a> to Rodrigo for more info. </p>
 
 <link rel="icon" href="/images/favicon.ico" type="image/png">
 
