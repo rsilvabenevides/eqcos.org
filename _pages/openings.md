@@ -35,7 +35,7 @@ permalink: /vacancies
 * Assisting in the construction of a cryogenic environment compatible with cQED experiments. 
 * Performing experiments on coherent microwave photon-phonon conversion in electromechanical devices.
 
-<u>Desired previous experience:</u> While not mandatory, the ideal candidate is expected to have some prior experimental experience, such as a Master’s or Bachelor’s thesis in experimental physics. Basic knowledge of microfabrication processes and Python programming is also a significant advantage.  --> -->
+<u>Desired previous experience:</u> While not mandatory, the ideal candidate is expected to have some prior experimental experience, such as a Master’s or Bachelor’s thesis in experimental physics. Basic knowledge of microfabrication processes and Python programming is also a significant advantage.  --> 
 
 ## Master Positions
 
