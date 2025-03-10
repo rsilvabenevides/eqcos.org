@@ -14,17 +14,17 @@ permalink: /vacancies
 
 <p style="text-align: justify;">We encourage students from diverse backgrounds to join the team, including individuals of different gender identities, sexual orientations, and ethnicities. The more diverse our environment, the richer our thoughts. Science thrives on diversity!</p>
 
-## Ph.D. Positions
+<!-- ## Ph.D. Positions -->
 
-### Electromechanical Devices for Microwave-Optical Transduction
-#### Funding: FAPESP
-<p style="text-align: justify;">The student participating in this project will work on developing an electromechanical device designed to operate in the quantum regime. They will also contribute to building the laboratory infrastructure, with a focus on cryogenic and microwave setups. The ultimate goal is to perform electromechanical experiments and achieve microwave-optical transduction in the quantum regime.</p>
+<!-- ### Electromechanical Devices for Microwave-Optical Transduction
+<!-- #### Funding: FAPESP -->
+<!-- <p style="text-align: justify;">The student participating in this project will work on developing an electromechanical device designed to operate in the quantum regime. They will also contribute to building the laboratory infrastructure, with a focus on cryogenic and microwave setups. The ultimate goal is to perform electromechanical experiments and achieve microwave-optical transduction in the quantum regime.</p> -->
 
-<figure  style="text-align: center; margin: 0 auto;">
+<!-- <figure  style="text-align: center; margin: 0 auto;">
   <img src="images/research/Electromec.png" alt="Image description" width="400"/>
-  <figcaption style="font-size: 16px; color: #555; display: block; text-align: center; margin-top: -45px;"> Schematic of the electromechanical device.
+  <figcaption style="font-size: 16px; color: #555; display: block; text-align: center; margin-top: -45px;"> Schematic of the electromechanical device. -->
 
-<div style="text-align: justify;">
+<!-- <div style="text-align: justify;">
 
 <p style="text-align: justify;margin-top: 25px;">In this project, the student will learn and develop a diverse set of skills, including:</p>
 
@@ -35,7 +35,7 @@ permalink: /vacancies
 * Assisting in the construction of a cryogenic environment compatible with cQED experiments. 
 * Performing experiments on coherent microwave photon-phonon conversion in electromechanical devices.
 
-<u>Desired previous experience:</u> While not mandatory, the ideal candidate is expected to have some prior experimental experience, such as a Master’s or Bachelor’s thesis in experimental physics. Basic knowledge of microfabrication processes and Python programming is also a significant advantage. 
+<u>Desired previous experience:</u> While not mandatory, the ideal candidate is expected to have some prior experimental experience, such as a Master’s or Bachelor’s thesis in experimental physics. Basic knowledge of microfabrication processes and Python programming is also a significant advantage.  --> -->
 
 ## Master Positions
 
