@@ -50,6 +50,17 @@
   # # number_educ: 2
   # education2: BSc Jilin University
 
+- name: Artur Libanio
+  photo: Foto_Libanio.jpg
+  info: Bachelor Student, started August 2025
+  number_educ: 1
+  education1: Project - "Nonclassical states in electromechanical devices"
+  # number_educ: 1
+  # email: xx
+  # education1: Master degree with <a href="https://scholar.google.com/citations?user=3pCV7EYAAAAJ&hl=pt-BR">Prof. Belich</a>, at UFES.
+  # # number_educ: 2
+  # education2: BSc Jilin University
+
 - name: "This could be you"
   photo: student_2.png
   info: See <a href="http://www.eqcos.org/vacancies">openings</a> for more info
