@@ -16,6 +16,15 @@
   # number_educ: 2
   # education2: BSc Jilin University
 
+- name: Lorena Carvalho
+  photo: Foto_Carvalho.jpg
+  info: Master Student, started August 2025
+  number_educ: 2
+  education1: Project - "Development of optomechanical devices for quantum transduction"
+  education2: Bachelor degree at UFABC.
+  # number_educ: 2
+  # education2: BSc Jilin University
+
 - name: Nathalya Moura
   photo: Foto_Moura.jpg
   info: Bachelor Student, started March 2025
