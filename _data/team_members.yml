@@ -99,7 +99,7 @@
   # # number_educ: 2
   # education2: BSc Jilin University
 
-  - name: Murilo de Souza
+- name: Murilo de Souza
   photo: Foto_Souza.jpg
   info: Bachelor Student, started June 2026
   number_educ: 1
@@ -110,7 +110,7 @@
   # # number_educ: 2
   # education2: BSc Jilin University
 
-  - name: Micael Baruch
+- name: Micael Baruch
   photo: Foto_Baruch.jpg
   info: Bachelor Student, started August 2026
   number_educ: 1
