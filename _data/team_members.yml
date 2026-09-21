@@ -66,16 +66,16 @@
 #   # # number_educ: 2
 #   # education2: BSc Jilin University
 
-- name: Artur Libanio
-  photo: Foto_Libanio.jpg
-  info: Bachelor Student, started August 2025
-  number_educ: 1
-  education1: Project - "Nonclassical states in electromechanical devices"
-  # number_educ: 1
-  # email: xx
-  # education1: Master degree with <a href="https://scholar.google.com/citations?user=3pCV7EYAAAAJ&hl=pt-BR">Prof. Belich</a>, at UFES.
-  # # number_educ: 2
-  # education2: BSc Jilin University
+# - name: Artur Libanio
+#   photo: Foto_Libanio.jpg
+#   info: Bachelor Student, started August 2025
+#   number_educ: 1
+#   education1: Project - "Nonclassical states in electromechanical devices"
+#   # number_educ: 1
+#   # email: xx
+#   # education1: Master degree with <a href="https://scholar.google.com/citations?user=3pCV7EYAAAAJ&hl=pt-BR">Prof. Belich</a>, at UFES.
+#   # # number_educ: 2
+#   # education2: BSc Jilin University
     
 - name: Gustavo Canicoba
   photo: Foto_Canicoba.jpg
@@ -98,6 +98,29 @@
   # education1: Master degree with <a href="https://scholar.google.com/citations?user=3pCV7EYAAAAJ&hl=pt-BR">Prof. Belich</a>, at UFES.
   # # number_educ: 2
   # education2: BSc Jilin University
+
+  - name: Murilo de Souza
+  photo: Foto_Souza.jpg
+  info: Bachelor Student, started June 2026
+  number_educ: 1
+  education1: Project - "Development of flip chip bonding techniques for quatum applications"
+  # number_educ: 1
+  # email: xx
+  # education1: Master degree with <a href="https://scholar.google.com/citations?user=3pCV7EYAAAAJ&hl=pt-BR">Prof. Belich</a>, at UFES.
+  # # number_educ: 2
+  # education2: BSc Jilin University
+
+  - name: Micael Baruch
+  photo: Foto_Baruch.jpg
+  info: Bachelor Student, started August 2026
+  number_educ: 1
+  education1: Project - "Simulations of quantum transduction in piezo-opto-mechanical systems"
+  # number_educ: 1
+  # email: xx
+  # education1: Master degree with <a href="https://scholar.google.com/citations?user=3pCV7EYAAAAJ&hl=pt-BR">Prof. Belich</a>, at UFES.
+  # # number_educ: 2
+  # education2: BSc Jilin University
+
 
 - name: "This could be you"
   photo: student_2.png
